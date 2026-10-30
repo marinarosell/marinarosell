@@ -1,6 +1,6 @@
 # Hi, I'm Marina 👋
 
-Machine Learning Engineer focused on computer vision, multimodal models and retrieval systems. My MSc thesis explored the mechanistic interpretability of vision-language models with sparse autoencoders.
+Machine Learning Engineer focused on interpretability, computer vision, multimodal models, and retrieval systems. My MSc thesis explored the mechanistic interpretability of vision-language models with sparse autoencoders.
 
 ### About me
 
